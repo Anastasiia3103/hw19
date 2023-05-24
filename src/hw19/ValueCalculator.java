@@ -52,3 +52,5 @@ public class ValueCalculator {
         this.array = array;
     }
 }
+
+
